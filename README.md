@@ -111,7 +111,10 @@ X| |O
 * Minimax algorithm (recursion + backtracking)
 * Input validation
 * Simple AI decision-making
+  
+#📈 check out the coding:
 
+https://drive.google.com/file/d/1c9HGomh01VlCF-r6y-Uxdn24CFCiCvAF/view?usp=drivesdk
 ---
 
 ## ✅ To-Do (Optional Enhancements)
