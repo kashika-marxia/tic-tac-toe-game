@@ -111,6 +111,7 @@ X| |O
 * Minimax algorithm (recursion + backtracking)
 * Input validation
 * Simple AI decision-making
+---
   
 #📈 check out the coding:
 
